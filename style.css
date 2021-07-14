@@ -1,0 +1,83 @@
+  
+.body{
+    margin: 0%;
+    padding: 0%;
+}
+.container{
+    width: 95%;
+}
+.nav{
+background-color: black;
+color: blanchedalmond ;
+font-size: 100%;
+padding-right: 60%;
+padding-left: 0;
+padding-top: 0;
+padding-bottom: 0;
+}
+.text-center{
+    background-color: black;
+    color: blanchedalmond;
+    padding-top: 19em;
+    height: 50em;
+    width: 100%;
+}
+.subtit{
+    font-weight: bolder;
+    font-size: 200%;
+}
+.cont{
+    font-size: 120%;
+}
+.pic{
+    height: 30em;
+    width: 22em;
+    padding-left: 18%;
+    padding-top: 8%;
+}
+.icon{
+   
+    text-align: center;
+  
+    padding-top: 3%;
+    padding-bottom: 3%;
+
+}
+.video{
+    
+    padding-right: 4%;
+}
+.learn{
+    padding-right: 4%;
+    height: 19%;
+    width: 18%;
+}
+.black{
+    background-color: black;
+    color: blanchedalmond;
+    padding-top: 4%;
+    padding-bottom: 4%;
+    font-weight: bolder;
+    text-align: center;
+    height: 25%;
+}
+.card-body{
+    height: 11em;
+    
+}
+.awards{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 1em;
+}
+.last{
+    
+    text-align: left;
+    padding-top: 2%;
+    background-color: black;
+    color: blanchedalmond;
+    height: 15%;
+}
+.poem{
+    font-size: 120%;
+}
